@@ -1,4 +1,5 @@
-# SpiralNote
+[![Express Logo](https://cldup.com/SFCcsXhTFk.png)](http://expressjs.com/)
+
 SpiralNode é um projeto open-source que tem como objetivo desenvolver uma aplicação para apoiar o estudo através de anotações.
 
 ###Estrutura 
@@ -25,13 +26,13 @@ Desenvolvimento de uma aplicação será feito utilizando as tecnologias descrit
 * [Node.js] descrição...
   [Node.js]: <https://sites>
 
-* [Express] descrição...
-  [Express]: <https://sites>
+* [Express] Fast, unopinionated, minimalist web framework for node.
+  [Express]: <https://github.com/strongloop/express>
 
-* [Monk] Monk is a tiny layer that provides simple yet substantial usability improvements for MongoDB usage within Node.JS.
-  [Monk]: <https://sites>
+* [Monk] is a tiny layer that provides simple yet substantial usability improvements for MongoDB usage within Node.JS.
+  [Monk]: <https://github.com/Automattic/monk>
 
-####AngularJS
-descrição...
+* [AngulaJS] lets you write client-side web applications as if you had a smarter browser. It lets you use good old HTML (or HAML, Jade and friends!) as your template language and lets you extend HTML’s syntax to express your application’s components clearly and succinctly. It automatically synchronizes data from your UI (view) with your JavaScript objects (model) through 2-way data binding. To help you structure your application better and make it easy to test, AngularJS teaches the browser how to do dependency injection and inversion of control.
+[AngulaJS]: <https://github.com/angular/angular.js>
 
 

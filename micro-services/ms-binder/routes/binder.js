@@ -23,7 +23,6 @@ var binderAction = requireRoot('/actions/binder');
  *       "error": "UserNotFound"
  *     }
  */
-router.get('/getAll/:login', binderAction.getAll);
-router.get('/getById/:id', binderAction.getById);
+router.get('/:id', binderAction.get);
 
 module.exports = router;

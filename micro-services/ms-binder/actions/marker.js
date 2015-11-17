@@ -2,7 +2,7 @@
 var collection = db.get('binder');
 
 module.exports = {
-    getAll: function (req, res) {
+    get: function (req, res) {
         collection.find(
             { 'binder.name': req.params.binder },
             { fields: { 'binder.$': 1 } },

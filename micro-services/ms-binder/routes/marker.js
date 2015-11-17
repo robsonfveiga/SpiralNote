@@ -23,9 +23,9 @@ var markerAction = requireRoot('/actions/marker');
  *       "error": "BinderNotFound"
  *     }
  */
-router.get('/getAll/:binder', markerAction.getAll);
-router.post('/insert/:binder/:marker', markerAction.insert);
-router.put('/update/:binder/:marker', markerAction.update);
-router.delete('/remove/:binder/:marker', markerAction.remove);
+router.get('/:binder', markerAction.get);
+router.post('/:binder/:marker', markerAction.insert);
+router.put('/:binder/:marker', markerAction.update);
+router.delete('/:binder/:marker', markerAction.remove);
 
 module.exports = router;

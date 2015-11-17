@@ -3,12 +3,12 @@ var collection = db.get("user");
 
 module.exports = {
     
-    getAll: function(req, res, next) {
+    get: function(req, res, next) {
         collection.find({}, function (err, values) {
             if (err) {
-                res.send({ msg: err })
+                res.status(500).send({ msg: 'error:' + err })
             } else {
-                res.json(values);
+                res.status(200).json(values);
             }
         });
     },
@@ -17,7 +17,7 @@ module.exports = {
         user.mappingBody(req.body);
 
         collection.insert(user, function (err, result) {
-            res.send((err === null) ? { msg: '' } : { msg: err });
+            res.send((err === null) ? { msg: '' } : { msg:'error:' + err});
         });
     },
     update: function (req, res) {

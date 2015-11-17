@@ -38,7 +38,7 @@ global.requireRoot = function(name) {
 
 // ROUTES FOR OUR API
 // =============================================================================
-var routes = require('./routes/users');
+var routes = require('./routes/user');
 app.use('/api/user/', routes);
 
 // ERRO 404 / PRINT STACKTRACE 

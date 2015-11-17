@@ -43,9 +43,9 @@ var routesMarkers = require('./routes/marker');
 var routesSheet = require('./routes/marker');
 
 app.use(express.static("public"));
-app.use('/api/binders/', routes);
-app.use('/api/markers/', routesMarkers);
-app.use('/api/sheets/', routesSheet);
+app.use('/api/binder/', routes);
+app.use('/api/marker/', routesMarkers);
+app.use('/api/sheet/', routesSheet);
 
 // ERRO 404 / PRINT STACKTRACE 
 // No futuro será necessário criar um servico que gerencie as 

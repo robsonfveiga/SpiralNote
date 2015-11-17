@@ -18,6 +18,7 @@
   <ItemGroup>
     <Content Include="package.json" />
     <Compile Include="app.js" />
+    <Compile Include="test\user.js" />
     <Compile Include="_config.js" />
     <Compile Include="actions\user.js" />
     <Compile Include="models\user.js" />

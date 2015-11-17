@@ -16,10 +16,10 @@ A aplicação tem como ideia central ser um fichário onde o usuário terá a po
   [MVC]: <https://sites>
 
 * [apiDoc] Generates a RESTful web API Documentation.
-  [apiDoc]: <https://github.com/apidoc/apidoc>
+  [apiDoc]: <https://github.com/apidoc>
 
 * [Node.js] Node.js is an open-source, cross-platform runtime environment for developing server-side web applications. Node.js applications are written in JavaScript and can be run within the Node.js runtime on OS X, Microsoft Windows, Linux, FreeBSD, NonStop,[3] IBM AIX, IBM System z and IBM i. Its work is hosted and supported by the Node.js Foundation, a collaborative project at Linux Foundation.
-  [Node.js]: <https://nodejs.org/en/>
+  [Node.js]: <https://github.com/nodejs>
 
 * [Express] Fast, unopinionated, minimalist web framework for node.
   [Express]: <https://github.com/strongloop/express>
@@ -28,6 +28,6 @@ A aplicação tem como ideia central ser um fichário onde o usuário terá a po
   [Monk]: <https://github.com/Automattic/monk>
 
 * [AngulaJS] lets you write client-side web applications as if you had a smarter browser. It lets you use good old HTML (or HAML, Jade and friends!) as your template language and lets you extend HTML’s syntax to express your application’s components clearly and succinctly. It automatically synchronizes data from your UI (view) with your JavaScript objects (model) through 2-way data binding. To help you structure your application better and make it easy to test, AngularJS teaches the browser how to do dependency injection and inversion of control.
-[AngulaJS]: <https://github.com/angular/angular.js>
+[AngulaJS]: <https://github.com/angular>
 
 

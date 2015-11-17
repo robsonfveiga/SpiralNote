@@ -6,8 +6,6 @@ SpiralNode é um projeto open-source que tem como objetivo desenvolver uma aplic
 A aplicação tem como ideia central ser um fichário onde o usuário terá a possibilidade de criar cadernos específicos para seus estudos e marcadores para dividir seu caderno por capitulo/assunto, e, portanto dentro de cada marcador é possível inserir paginas onde o conteúdo textual será inserido efetivamente.
 
 ###Tecnologias / Arquitetura
-Desenvolvimento de uma aplicação será feito utilizando as tecnologias descritas.
-
 * [MicroServices] descrição...
   [MicroServices]: <https://sites>
   

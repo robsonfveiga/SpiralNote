@@ -17,14 +17,11 @@ Desenvolvimento de uma aplicação será feito utilizando as tecnologias descrit
 * [MVC] descrição...
   [MVC]: <https://sites>
 
-* [GIT] descrição...
-  [GIT]: <https://sites>
+* [apiDoc] Generates a RESTful web API Documentation.
+  [apiDoc]: <https://github.com/apidoc/apidoc>
 
-* [apiDoc] descrição...
-  [apiDoc]: <https://sites>
-
-* [Node.js] descrição...
-  [Node.js]: <https://sites>
+* [Node.js] Node.js is an open-source, cross-platform runtime environment for developing server-side web applications. Node.js applications are written in JavaScript and can be run within the Node.js runtime on OS X, Microsoft Windows, Linux, FreeBSD, NonStop,[3] IBM AIX, IBM System z and IBM i. Its work is hosted and supported by the Node.js Foundation, a collaborative project at Linux Foundation.
+  [Node.js]: <https://nodejs.org/en/>
 
 * [Express] Fast, unopinionated, minimalist web framework for node.
   [Express]: <https://github.com/strongloop/express>

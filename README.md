@@ -1,4 +1,4 @@
-[![Express Logo](https://cldup.com/SFCcsXhTFk.png)](http://expressjs.com/)
+﻿[![Express Logo](https://cldup.com/SFCcsXhTFk.png)](http://expressjs.com/)
 
 SpiralNode é um projeto open-source que tem como objetivo desenvolver uma aplicação para apoiar o estudo através de anotações.
 
@@ -21,7 +21,7 @@ A aplicação tem como ideia central ser um fichário onde o usuário terá a po
 * [Node.js] Node.js is an open-source, cross-platform runtime environment for developing server-side web applications. Node.js applications are written in JavaScript and can be run within the Node.js runtime on OS X, Microsoft Windows, Linux, FreeBSD, NonStop,[3] IBM AIX, IBM System z and IBM i. Its work is hosted and supported by the Node.js Foundation, a collaborative project at Linux Foundation.
   [Node.js]: <https://github.com/nodejs>
 
-* [Express] Fast, unopinionated, minimalist web framework for node.
+* [Express] Fast, unopinionated, minimalist web framework for node. :)
   [Express]: <https://github.com/strongloop/express>
 
 * [Monk] is a tiny layer that provides simple yet substantial usability improvements for MongoDB usage within Node.JS.
